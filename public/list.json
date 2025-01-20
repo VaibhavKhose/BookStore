@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"free",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":2,
+        "name":"sports book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"free",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":3,
+        "name":"comedy book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":20,
+          "category":"Entertainment",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":4,
+        "name":"grammer book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":50,
+          "category":"english grammer",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":5,
+        "name":"one-way book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"free",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":6,
+        "name":"music book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":100,
+          "category":"Song",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":7,
+        "name":"food book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"free",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        "id":8,
+        "name":"yummy-tasty book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"free",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    },
+    {
+        
+            "id":9,
+            "name":"yummy-tasty book",
+             "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+              "price":0,
+              "category":"free",
+              "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+    }
+
+]
