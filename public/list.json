@@ -17,23 +17,23 @@
     },
     {
         "id":3,
-        "name":"comedy book",
+        "name":"comedy ",
          "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
           "price":20,
-          "category":"Entertainment",
+          "category":"chill",
           "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
     },
     {
         "id":4,
-        "name":"grammer book",
+        "name":"grammer",
          "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
           "price":50,
-          "category":"english grammer",
+          "category":"english",
           "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
     },
     {
         "id":5,
-        "name":"one-way book",
+        "name":"one book",
          "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
           "price":0,
           "category":"free",
@@ -57,7 +57,7 @@
     },
     {
         "id":8,
-        "name":"yummy-tasty book",
+        "name":"yummy",
          "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
           "price":0,
           "category":"free",
@@ -66,11 +66,29 @@
     {
         
             "id":9,
-            "name":"yummy-tasty book",
+            "name":"yummy ",
              "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
               "price":0,
-              "category":"free",
+              "category":"100",
               "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
-    }
+    },
+    {
+        
+        "id":10,
+        "name":"two book",
+         "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "price":0,
+          "category":"50",
+          "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+},
+{
+        
+    "id":11,
+    "name":"yummy ",
+     "title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+      "price":0,
+      "category":"free",
+      "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1737347843~exp=1737351443~hmac=55f4efd11773dcb47f75eb1cc0a6cbb1f2361bee5e6b947a8ba698a46bc6af19&w=740"
+}
 
 ]

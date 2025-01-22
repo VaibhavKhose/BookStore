@@ -42,15 +42,15 @@ function Freebook() {
       },
     ],
   };
-  console.log(filterData);
+  // console.log(filterData);
   return (
     <>
       <div className="max-w-screen-2xl container max-auto md:px-20 px-4">
-        <h1 className="font-semibold text-xl pb-2 pt-7 ">
+        <h1 className="text-black dark:text-white font-semibold text-xl pb-2 pt-7 ">
           Free Ordered Courses
         </h1>
         <div>
-          <p>
+          <p className="text-black dark:text-white">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
             laborum, recusandae aliquam ipsa, voluptatem blanditiis nisi eveniet
             dicta incidunt dolore porro.

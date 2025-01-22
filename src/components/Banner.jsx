@@ -9,11 +9,11 @@ const Banner = () => {
       <div className=" max-w-screen-2xl container max-auto md:px-20 px-4 flex flex-col md:flex-row mt-10">
         <div className="  w-full    order-2   md:w-1/2  mt-11 md:mt-32">
           <div className="space-y-12">
-            <h1 className=" text-3xl md:text-4xl font-bold">
+            <h1 className="text-black dark:text-white text-3xl md:text-4xl font-bold">
               Hello, welcome here to learn something{" "}
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
-            <p className="text-xl">
+            <p className="text-black dark:text-white text-xl">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               Distinctio ab eaque eos, sit corporis, illo ad consequatur
               eligendi nulla facilis, dolorem perspiciatis incidunt aut vel
